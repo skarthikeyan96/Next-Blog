@@ -7,7 +7,7 @@ export default class extends Component {
         <div className="container mx-auto pl-10 pr-10 mt-10 mb-10">
           <div className="grid gap-12 grid-cols-2">
             <img
-              src="https://images.unsplash.com/photo-1488751045188-3c55bbf9a3fa?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
+              src="https://images.unsplash.com/photo-1521737711867-e3b97375f902?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=634&q=80"
               className="shadow-lg"
             />
             <div>
@@ -15,7 +15,7 @@ export default class extends Component {
                 Documentation for React Projects
               </h1>
               <p className="pb-4">24 MAY, 2019</p>
-              <span className="main-content mt-10 leading-8">
+              <span className="main-content mt-10 leading-8 font-light">
                 <p>
                   {" "}
                   Pellentesque habitant morbi tristique senectus et netus et
